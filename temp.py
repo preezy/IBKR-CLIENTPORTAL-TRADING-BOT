@@ -1,7 +1,9 @@
 import requests
 
-link = 'https://localhost:5000/v1/portal/trsrv/futures'
+futures = 'https://localhost:5000/v1/portal/trsrv/futures'
 
-r = requests.get(link, params={'symbols':'ES'}, verify=False)
+stock = 'https://localhost:5000/v1/portal/iserver/secdef/search'
+
+r = requests.post(stock, data={'symbol':'FB'}, verify=False)
 
 print(r.content)

@@ -1,5 +1,5 @@
 from datetime import datetime
-import websocket, json, ssl
+import websocket, json, ssl, sys
 
 socket = "wss://localhost:5000/v1/api/ws"
 
@@ -8,6 +8,8 @@ socket = "wss://localhost:5000/v1/api/ws"
 # except ImportError:
 #     import _thread as thread
 # import time
+
+
 
 
 minutes_processed = {}
@@ -21,7 +23,7 @@ def on_message(ws, message):
     
     message_to_dict = json.loads(message)
     if 'args' in message_to_dict and message_to_dict['args']['authenticated']:
-        ws.send('smd+383974339+{"fields":["31","83"]}')
+        ws.send('smd+107113386+{"fields":["31","83"]}')
     # print("=== Received Tick ===")
     # print(json.dumps(m, indent=4, sort_keys=True))
     # print(f"this is the type of m {type(m)}")
@@ -44,9 +46,14 @@ def on_message(ws, message):
 
             if len(minute_candlesticks) > 0:
                 minute_candlesticks[-1]['close'] = previous_tick['31']
+                if minute_candlesticks[-1]['close'] > minute_candlesticks[-1]['open']:
+                    minute_candlesticks[-1]['bull'] = True
+                else:
+                    minute_candlesticks[-1]['bull'] = False
 
             minute_candlesticks.append({
                 'minute': tick_dt,
+                'last' : current_last,
                 'open': current_last,
                 'high': current_last,
                 'low': current_last
@@ -54,6 +61,7 @@ def on_message(ws, message):
 
         if len(minute_candlesticks) > 0:
             current_candlestick = minute_candlesticks[-1]
+            current_candlestick['last'] = current_last
             if current_last > current_candlestick['high']:
                 current_candlestick['high'] = current_last
             if current_last < current_candlestick['low']:
