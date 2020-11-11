@@ -10082,3 +10082,228 @@ io.vertx.core.impl.NoStackTraceThrowable: 404
 11:38:29.887 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":570086,"collission":false,"userId":53404369,"iserver":{"tickle":true,"authStatus":{"authenticated":true,"competing":false,"connected":true,"message":"","MAC":"98:F2:B3:23:CF:10"}}}
 11:38:36.603 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112716593}
 11:38:36.604 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112716593}
+11:38:46.604 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112726593}
+11:38:46.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112726593}
+11:38:56.604 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112736593}
+11:38:56.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112736593}
+11:39:00.305 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|482ms
+11:39:00.306 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":539667,"collission":false,"userId":53404369,"iserver":{"tickle":true,"authStatus":{"authenticated":true,"competing":false,"connected":true,"message":"","MAC":"98:F2:B3:23:CF:10"}}}
+11:39:06.604 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112746593}
+11:39:06.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112746593}
+11:39:16.604 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112756593}
+11:39:16.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112756593}
+11:39:26.604 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112766593}
+11:39:26.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112766593}
+11:39:29.877 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|66ms
+11:39:29.877 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":510097,"collission":false,"userId":53404369,"iserver":{"tickle":true,"authStatus":{"authenticated":true,"competing":false,"connected":true,"message":"","MAC":"98:F2:B3:23:CF:10"}}}
+11:39:36.604 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112776593}
+11:39:36.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112776593}
+11:39:46.604 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112786593}
+11:39:46.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112786593}
+11:39:56.604 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112796593}
+11:39:56.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112796593}
+11:39:59.905 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|80ms
+11:39:59.905 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":480068,"collission":false,"userId":53404369,"iserver":{"tickle":true,"authStatus":{"authenticated":true,"competing":false,"connected":true,"message":"","MAC":"98:F2:B3:23:CF:10"}}}
+11:40:06.604 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112806593}
+11:40:06.604 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112806593}
+11:40:16.604 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112816593}
+11:40:16.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112816593}
+11:40:26.604 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112826593}
+11:40:26.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112826593}
+11:40:30.226 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|407ms
+11:40:30.226 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":449747,"collission":false,"userId":53404369,"iserver":{"tickle":true,"authStatus":{"authenticated":true,"competing":false,"connected":true,"message":"","MAC":"98:F2:B3:23:CF:10"}}}
+11:40:36.604 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112836593}
+11:40:36.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112836593}
+11:40:46.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112846594}
+11:40:46.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112846594}
+11:40:56.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112856593}
+11:40:56.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112856593}
+11:40:59.910 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|84ms
+11:40:59.911 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":420064,"collission":false,"userId":53404369,"iserver":{"tickle":true,"authStatus":{"authenticated":true,"competing":false,"connected":true,"message":"","MAC":"98:F2:B3:23:CF:10"}}}
+11:41:04.982 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|61ms
+11:41:04.983 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+11:41:06.604 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112866593}
+11:41:06.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112866593}
+11:41:16.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112876593}
+11:41:16.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112876593}
+11:41:26.604 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112886593}
+11:41:26.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112886593}
+11:41:29.884 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|69ms
+11:41:29.884 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":390090,"collission":false,"userId":53404369,"iserver":{"tickle":true,"authStatus":{"authenticated":true,"competing":false,"connected":true,"message":"","MAC":"98:F2:B3:23:CF:10"}}}
+11:41:36.604 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112896593}
+11:41:36.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112896593}
+11:41:46.604 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112906593}
+11:41:46.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112906593}
+11:41:56.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112916593}
+11:41:56.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112916593}
+11:41:59.920 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|103ms
+11:41:59.920 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":360053,"collission":false,"userId":53404369,"iserver":{"tickle":true,"authStatus":{"authenticated":true,"competing":false,"connected":true,"message":"","MAC":"98:F2:B3:23:CF:10"}}}
+11:42:06.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112926593}
+11:42:06.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112926593}
+11:42:16.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112936593}
+11:42:16.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112936593}
+11:42:26.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112946593}
+11:42:26.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112946593}
+11:42:29.884 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|65ms
+11:42:29.885 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":330089,"collission":false,"userId":53404369,"iserver":{"tickle":true,"authStatus":{"authenticated":true,"competing":false,"connected":true,"message":"","MAC":"98:F2:B3:23:CF:10"}}}
+11:42:36.604 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112956593}
+11:42:36.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112956593}
+11:42:46.604 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112966593}
+11:42:46.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112966593}
+11:42:56.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112976593}
+11:42:56.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112976593}
+11:42:59.911 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|100ms
+11:42:59.911 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":300063,"collission":false,"userId":53404369,"iserver":{"tickle":true,"authStatus":{"authenticated":true,"competing":false,"connected":true,"message":"","MAC":"98:F2:B3:23:CF:10"}}}
+11:43:06.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112986593}
+11:43:06.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112986593}
+11:43:16.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112996593}
+11:43:16.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605112996593}
+11:43:26.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113006593}
+11:43:26.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113006593}
+11:43:30.887 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1064ms
+11:43:30.887 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":269087,"collission":false,"userId":53404369,"iserver":{"tickle":true,"authStatus":{"authenticated":true,"competing":false,"connected":true,"message":"","MAC":"98:F2:B3:23:CF:10"}}}
+11:43:36.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113016593}
+11:43:36.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113016593}
+11:43:46.604 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113026593}
+11:43:46.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113026593}
+11:43:56.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113036593}
+11:43:56.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113036593}
+11:43:59.898 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|75ms
+11:43:59.898 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":240075,"collission":false,"userId":53404369,"iserver":{"tickle":true,"authStatus":{"authenticated":true,"competing":false,"connected":true,"message":"","MAC":"98:F2:B3:23:CF:10"}}}
+11:44:06.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113046593}
+11:44:06.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113046593}
+11:44:16.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113056592}
+11:44:16.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113056593}
+11:44:26.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113066593}
+11:44:26.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113066593}
+11:44:29.882 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|63ms
+11:44:29.882 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":210091,"collission":false,"userId":53404369,"iserver":{"tickle":true,"authStatus":{"authenticated":true,"competing":false,"connected":true,"message":"","MAC":"98:F2:B3:23:CF:10"}}}
+11:44:36.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113076593}
+11:44:36.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113076593}
+11:44:46.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113086593}
+11:44:46.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113086593}
+11:44:56.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113096593}
+11:44:56.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113096593}
+11:44:59.892 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|73ms
+11:44:59.892 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":180082,"collission":false,"userId":53404369,"iserver":{"tickle":true,"authStatus":{"authenticated":true,"competing":false,"connected":true,"message":"","MAC":"98:F2:B3:23:CF:10"}}}
+11:45:06.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113106593}
+11:45:06.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113106593}
+11:45:16.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113116593}
+11:45:16.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113116593}
+11:45:26.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113126593}
+11:45:26.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113126593}
+11:45:29.892 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|66ms
+11:45:29.892 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":150082,"collission":false,"userId":53404369,"iserver":{"tickle":true,"authStatus":{"authenticated":true,"competing":false,"connected":true,"message":"","MAC":"98:F2:B3:23:CF:10"}}}
+11:45:36.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113136593}
+11:45:36.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113136593}
+11:45:46.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113146593}
+11:45:46.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113146593}
+11:45:56.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113156593}
+11:45:56.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113156593}
+11:45:59.926 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|110ms
+11:45:59.926 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":120048,"collission":false,"userId":53404369,"iserver":{"tickle":true,"authStatus":{"authenticated":true,"competing":false,"connected":true,"message":"","MAC":"98:F2:B3:23:CF:10"}}}
+11:46:04.935 ERROR vert.x-eventloop-thread-0 BaseServiceProxy     : request failed Connection was closed
+io.vertx.core.VertxException: Connection was closed
+	at io.vertx.core.http.impl.ClientConnection.handleClosed(ClientConnection.java:406)
+	at io.vertx.core.impl.ContextImpl.lambda$wrapTask$2(ContextImpl.java:342)
+	at io.vertx.core.impl.ContextImpl.executeFromIO(ContextImpl.java:200)
+	at io.vertx.core.net.impl.VertxHandler.channelInactive(VertxHandler.java:134)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelInactive(CombinedChannelDuplexHandler.java:420)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342)
+	at io.netty.handler.codec.http.HttpClientCodec$Decoder.channelInactive(HttpClientCodec.java:281)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelInactive(CombinedChannelDuplexHandler.java:223)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342)
+	at io.netty.handler.ssl.SslHandler.channelInactive(SslHandler.java:978)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelInactive(DefaultChannelPipeline.java:1354)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:917)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:763)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at java.lang.Thread.run(Thread.java:748)
+11:46:06.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113166593}
+11:46:06.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113166593}
+11:46:16.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113176593}
+11:46:16.607 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113176593}
+11:46:26.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113186593}
+11:46:26.607 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113186593}
+11:46:29.886 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|61ms
+11:46:29.887 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":90088,"collission":false,"userId":53404369,"iserver":{"tickle":true,"authStatus":{"authenticated":true,"competing":false,"connected":true,"message":"","MAC":"98:F2:B3:23:CF:10"}}}
+11:46:36.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113196593}
+11:46:36.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113196593}
+11:46:46.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113206593}
+11:46:46.607 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113206593}
+11:46:56.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113216593}
+11:46:56.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113216593}
+11:46:59.908 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|82ms
+11:46:59.908 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":60067,"collission":false,"userId":53404369,"iserver":{"tickle":true,"authStatus":{"authenticated":true,"competing":false,"connected":true,"message":"","MAC":"98:F2:B3:23:CF:10"}}}
+11:47:06.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113226593}
+11:47:06.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113226593}
+11:47:16.605 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113236593}
+11:47:16.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113236593}
+11:47:26.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113246593}
+11:47:26.607 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113246593}
+11:47:29.882 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|64ms
+11:47:29.882 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":30093,"collission":false,"userId":53404369,"iserver":{"tickle":true,"authStatus":{"authenticated":true,"competing":false,"connected":true,"message":"","MAC":"98:F2:B3:23:CF:10"}}}
+11:47:36.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113256593}
+11:47:36.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113256593}
+11:47:46.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113266593}
+11:47:46.607 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113266593}
+11:47:56.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113276593}
+11:47:56.607 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113276593}
+11:47:59.899 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|81ms
+11:47:59.899 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":76,"collission":false,"userId":53404369,"iserver":{"tickle":true,"authStatus":{"authenticated":true,"competing":false,"connected":true,"message":"","MAC":"98:F2:B3:23:CF:10"}}}
+11:48:06.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113286593}
+11:48:06.607 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113286593}
+11:48:16.607 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113296593}
+11:48:16.607 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113296593}
+11:48:26.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113306593}
+11:48:26.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113306593}
+11:48:29.879 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|64ms
+11:48:29.880 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":0,"collission":false,"userId":53404369,"iserver":{"tickle":true,"authStatus":{"authenticated":true,"competing":false,"connected":true,"message":"","MAC":"98:F2:B3:23:CF:10"}}}
+11:48:36.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113316593}
+11:48:36.607 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113316593}
+11:48:46.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113326592}
+11:48:46.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113326592}
+11:48:56.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113336593}
+11:48:56.607 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113336593}
+11:48:59.908 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|87ms
+11:48:59.908 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":569995,"collission":false,"userId":53404369,"iserver":{"tickle":true,"authStatus":{"authenticated":true,"competing":false,"connected":true,"message":"","MAC":"98:F2:B3:23:CF:10"}}}
+11:49:06.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113346593}
+11:49:06.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113346593}
+11:49:16.607 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113356593}
+11:49:16.607 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113356593}
+11:49:26.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113366593}
+11:49:26.607 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113366593}
+11:49:29.875 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|62ms
+11:49:29.875 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":540028,"collission":false,"userId":53404369,"iserver":{"tickle":true,"authStatus":{"authenticated":true,"competing":false,"connected":true,"message":"","MAC":"98:F2:B3:23:CF:10"}}}
+11:49:36.607 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113376593}
+11:49:36.607 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113376593}
+11:49:46.607 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113386593}
+11:49:46.607 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113386593}
+11:49:56.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113396593}
+11:49:56.607 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113396593}
+11:49:59.907 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|81ms
+11:49:59.907 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":509996,"collission":false,"userId":53404369,"iserver":{"tickle":true,"authStatus":{"authenticated":true,"competing":false,"connected":true,"message":"","MAC":"98:F2:B3:23:CF:10"}}}
+11:50:06.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113406593}
+11:50:06.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113406593}
+11:50:16.606 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113416593}
+11:50:16.607 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113416593}
+11:50:26.607 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113426593}
+11:50:26.607 DEBUG vert.x-eventloop-thread-0 GwWebsocketHandler   : Websocket Proxy response body: {"topic":"system","hb":1605113426593}
+11:50:29.866 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|55ms
+11:50:29.867 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":480036,"collission":false,"userId":53404369,"iserver":{"tickle":true,"authStatus":{"authenticated":true,"competing":false,"connected":true,"message":"","MAC":"98:F2:B3:23:CF:10"}}}
